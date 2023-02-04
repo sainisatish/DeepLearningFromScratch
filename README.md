@@ -4,3 +4,4 @@ Learning Deep learning from scratch using books. So here I will create small pro
 Chapter 3 
 1- IMDB binary classification
 2- Reuters multiclass classification
+3- Boston House price prediction
