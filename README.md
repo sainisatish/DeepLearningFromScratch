@@ -5,3 +5,5 @@ Chapter 3
 1- IMDB binary classification
 2- Reuters multiclass classification
 3- Boston House price prediction
+4- Keras Sequential and Functional API
+5- Convolutional Neural Network
