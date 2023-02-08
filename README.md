@@ -7,3 +7,4 @@ Chapter 3
 3- Boston House price prediction
 4- Keras Sequential and Functional API
 5- Convolutional Neural Network
+6- Cat vs Dog classifier
